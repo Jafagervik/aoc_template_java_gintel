@@ -18,7 +18,7 @@ public class Day1 {
         final int result_part1 = part1(input);
         System.out.println("Result of part1: " + result_part1);
 
-        final int result_part2 = part1(input);
+        final int result_part2 = part2(input);
         System.out.println("Result of part2: " + result_part2);
     }
 }
